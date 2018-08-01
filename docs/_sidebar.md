@@ -17,7 +17,7 @@
     - [MSIG](en-us/eosforce_msig.md)
     - [User Account Update](en-us/eosforce_username_tran.md)
 - Client develop documentations
-    - [HTTP API](en-us/eosforce_http_api_develop.md)
+    - [HTTP API](en-us/eosforce_http_chain_api.md)
     - [JS API Introduction](en-us/eosjs_api_doc.md) 
 - C/C++ API
 - HTTP API
